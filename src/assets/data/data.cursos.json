@@ -291,7 +291,7 @@
     },
     {
         "nombre":"Práctica Integradora",
-        "cursos":[
+        "cursos": [
             {
                 "comision": "C1",
                 "turno": "Noche",
