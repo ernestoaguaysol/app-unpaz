@@ -270,7 +270,7 @@
     },
     {
         "nombre":"Programación Concurrente y Paralela", 
-        "cursos":[
+        "cursos": [
             {
                 "comision": "C1",
                 "turno": "Noche",
