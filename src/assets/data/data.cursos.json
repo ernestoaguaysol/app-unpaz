@@ -1,0 +1,63 @@
+{
+    "materias":[
+        {
+            "nombre":"Álgebra y Análisis II", 
+            "cursos":[{
+                    "comision": "A1",
+                    "turno": "Mañana",
+                    "dia": "Lunes",
+                    "hora": "08:00 - 11:00",
+                    "clase": "Teórico-Práctica",
+                    "aula": "AULA 106 UNPAZ - UNPAZ"
+                },
+                {
+                    "comision": "A1",
+                    "turno": "Mañana",
+                    "dia": "Jueves",
+                    "hora": "08:00 - 11:00",
+                    "clase": "Teórico-Práctica",
+                    "aula": "Aula 217 CEM - CEM"
+                },
+                {
+                    "comision": "C1",
+                    "turno": "Noche",
+                    "dia": "Jueves",
+                    "hora": "18:00 - 22:00",
+                    "clase": "Teórico-Práctica",
+                    "aula": "AULA 4 UTN - UTN"
+                },
+                {
+                    "comision": "C1",
+                    "turno": "Noche",
+                    "dia": "Viernes",
+                    "hora": "18:00 - 20:00",
+                    "clase": "Teórico-Práctica",
+                    "aula": "AULA 106 UNPAZ - UNPAZ"
+                }
+            ]
+        },
+        {
+            "nombre":"Informática y Sociedad",
+            "cursos":[
+                {
+                    "comision": "A1",
+                    "turno": "Mañana",
+                    "dia": "Martes",
+                    "hora": "10:00 - 12:00",
+                    "clase": "Teórico-Práctica",
+                    "aula": "AULA 106 UNPAZ - UNPAZ"
+                },
+                {
+                    "comision": "C1",
+                    "turno": "Noche",
+                    "dia": "Lunes",
+                    "hora": "20:00 - 22:00",
+                    "clase": "Teórico-Práctica",
+                    "aula": "AULA 106 UNPAZ - UNPAZ"
+                }
+            ]
+        }
+    ]
+}
+
+

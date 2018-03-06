@@ -1,0 +1,29 @@
+<div class="container main-container">
+
+  <div class="row">
+
+<!--  -->
+    <div class="col-md-12" *ngFor="let materia of materias">
+      <h2>{{materia.nombre}}</h2>
+      <hr>
+
+      <div *ngFor="let curso of materia.cursos">
+
+          <div class="card border-dark mb-3">
+              <div class="card-header">{{curso.aula}}</div>
+              <div class="card-body text-dark">
+                <h5 class="card-title">{{curso.dia}}</h5>
+                <p class="card-text">Hora: {{curso.hora}}.</p>
+                <p class="card-text">Turno: {{curso.turno}}</p>
+                <p class="card-text">Comisión: {{curso.comision}}.</p>
+              </div>
+            </div>
+      </div>
+
+
+    </div>
+
+  </div>
+</div>
+
+
