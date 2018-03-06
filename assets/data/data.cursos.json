@@ -1,0 +1,314 @@
+{
+  "materias": [
+    {
+      "nombre": "Álgebra y Análisis II",
+      "cursos": [
+        {
+          "comision": "A1",
+          "turno": "Mañana",
+          "dia": "Lunes",
+          "hora": "08:00 - 11:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        },
+        {
+          "comision": "A1",
+          "turno": "Mañana",
+          "dia": "Jueves",
+          "hora": "08:00 - 11:00",
+          "clase": "Teórico-Práctica",
+          "aula": "Aula 217 CEM - CEM"
+        },
+        {
+          "comision": "C1",
+          "turno": "Noche",
+          "dia": "Jueves",
+          "hora": "18:00 - 22:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 4 UTN - UTN"
+        },
+        {
+          "comision": "C1",
+          "turno": "Noche",
+          "dia": "Viernes",
+          "hora": "18:00 - 20:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        }
+      ]
+    },
+    {
+      "nombre": "Informática y Sociedad",
+      "cursos": [
+        {
+          "comision": "A1",
+          "turno": "Mañana",
+          "dia": "Martes",
+          "hora": "10:00 - 12:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        },
+        {
+          "comision": "C1",
+          "turno": "Noche",
+          "dia": "Lunes",
+          "hora": "20:00 - 22:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        }
+      ]
+    },
+    {
+      "nombre": "Arquitectura de Computadoras II",
+      "cursos": [
+        {
+          "comision": "A1",
+          "turno": "Mañana",
+          "dia": "Martes",
+          "hora": "08:00 - 10:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        },
+        {
+          "comision": "A1",
+          "turno": "Mañana",
+          "dia": "Miercoles",
+          "hora": "08:00 - 11:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        },
+        {
+          "comision": "C1",
+          "turno": "Noche",
+          "dia": "Lunes",
+          "hora": "18:00 - 20:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        },
+        {
+          "comision": "C1",
+          "turno": "Noche",
+          "dia": "Miercoles",
+          "hora": "18:00 - 21:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        }
+      ]
+    },
+    {
+      "nombre": "Algoritmos y Programación II",
+      "cursos": [
+        {
+          "comision": "A1",
+          "turno": "Mañana",
+          "dia": "Viernes",
+          "hora": "08:00 - 11:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        },
+        {
+          "comision": "A1",
+          "turno": "Mañana",
+          "dia": "Sabado",
+          "hora": "10:00 - 13:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        },
+        {
+          "comision": "C1",
+          "turno": "Noche",
+          "dia": "Martes",
+          "hora": "18:00 - 22:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        },
+        {
+          "comision": "C1",
+          "turno": "Noche",
+          "dia": "Sabado",
+          "hora": "08:00 - 10:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 106 UNPAZ - UNPAZ"
+        }
+      ]
+    },
+    {
+      "nombre": "Base de datos I",
+      "cursos": [
+        {
+          "comision": "C1",
+          "turno": "Noche",
+          "dia": "Lunes",
+          "hora": "17:00 - 22:00",
+          "clase": "Teórico-Práctica",
+          "aula": "AULA 210 UNPAZ - UNPAZ"
+        }
+      ]
+    },
+    {
+        "nombre":"Algoritmos y Programación III",
+        "cursos":[
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Jueves",
+                "hora": "18:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 210 UNPAZ - UNPAZ"
+            },
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Viernes",
+                "hora": "18:00 - 20:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 210 UNPAZ - UNPAZ"
+            }
+        ]
+    },
+    {
+        "nombre":"Taller de Inglés II", 
+        "cursos":[
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Martes",
+                "hora": "18:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 9 UNPAZ - UNPAZ"
+            }
+        ]
+    },
+    {
+        "nombre":"Matemática Discreta", 
+        "cursos":[
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Miercoles",
+                "hora": "18:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "Aula 218 CEM - CEM"
+            },
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Viernes",
+                "hora": "20:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 106 UNPAZ - UNPAZ"
+            }
+        ]
+    },
+    {
+        "nombre":"Sistemas Operativos I", 
+        "cursos":[
+            {
+                "comision": "A1",
+                "turno": "Mañana",
+                "dia": "Sabado",
+                "hora": "08:00 - 14:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 11 UNPAZ - UNPAZ"
+            }
+        ]
+    },
+    {
+        "nombre":"Paradigmas de Programación", 
+        "cursos":[
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Lunes",
+                "hora": "19:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 211 UNPAZ - UNPAZ"
+            },
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Viernes",
+                "hora": "18:00 - 20:00",
+                "clase": "Teórico-Práctica",
+                "aula": "Aula 213 CEM - CEM"
+            }
+        ]
+    },
+    {
+        "nombre":"Comunicaciones y Redes",
+        "cursos":[
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Martes",
+                "hora": "18:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 211 UNPAZ - UNPAZ"
+            },
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Viernes",
+                "hora": "20:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 210 UNPAZ - UNPAZ"
+            }
+        ]
+    },
+    {
+        "nombre":"Sistemas Operativos II",
+        "cursos":[
+            {
+                "comision": "A1",
+                "turno": "Mañana",
+                "dia": "Sabado",
+                "hora": "08:00 - 13:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 10 UNPAZ - UNPAZ"
+            }
+        ]
+    },
+    {
+        "nombre":"Programación Concurrente y Paralela", 
+        "cursos":[
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Miercoles",
+                "hora": "18:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 211 UNPAZ - UNPAZ"
+            },
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Jueves",
+                "hora": "20:00 - 22:00",
+                "clase": "Teórico-Práctica",
+                "aula": "Aula 005 - Escuela Nº 26"
+            }
+        ]
+    },
+    {
+        "nombre":"Práctica Integradora",
+        "cursos":[
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Lunes",
+                "hora": "17:00 - 19:00",
+                "clase": "Teórico-Práctica",
+                "aula": "AULA 211 UNPAZ - UNPAZ"
+            },
+            {
+                "comision": "C1",
+                "turno": "Noche",
+                "dia": "Jueves",
+                "hora": "18:00 - 20:00",
+                "clase": "Teórico-Práctica",
+                 "aula": "sin definir"
+            }
+        ]
+    }
+  ]
+}
